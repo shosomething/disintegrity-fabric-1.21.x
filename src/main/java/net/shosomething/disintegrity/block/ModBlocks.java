@@ -19,7 +19,7 @@ public class ModBlocks {
             new Block(AbstractBlock.Settings.create().strength(4f)
                     .requiresTool()
                     .sounds(BlockSoundGroup.AMETHYST_BLOCK)
-                    .luminance(value -> 1))
+                    .luminance(value -> 3))
     );
 
     private static Block registerBlock(String name, Block block) {
