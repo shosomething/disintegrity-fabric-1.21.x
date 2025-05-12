@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G#",
+    "GgG",
+    "#GE"
+  ],
+  "key": {
+    "#": "minecraft:amethyst_shard",
+    "G": "minecraft:gunpowder",
+    "g": "minecraft:gold_ingot",
+    "E": "minecraft:echo_shard"
+  },
+  "result": {
+    "id": "disintegrity:nadium_crystal",
+    "count": 1
+  }
+}
