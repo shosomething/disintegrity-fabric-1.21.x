@@ -39,7 +39,7 @@ public class ModBlocks {
 
         //building blocks
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(entries -> {
-            entries.add(ModBlocks.NADIUM_BLOCK);
+            //entries.add(ModBlocks.NADIUM_BLOCK);
         });
 
     }

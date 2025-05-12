@@ -1,5 +1,7 @@
 {
   "item.disintegrity.nadium_crystal": "Nadium Crystal",
 
-  "block.disintegrity.nadium_block": "Nadium Block"
+  "block.disintegrity.nadium_block": "Nadium Block",
+
+  "itemgroup.disintegrity.nadium": "Nadium"
 }

@@ -21,7 +21,7 @@ public class ModItems {
 
         //ingredients
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
-            entries.add(NADIUM_CRYSTAL);
+            //entries.add(NADIUM_CRYSTAL);
         });
     }
 
