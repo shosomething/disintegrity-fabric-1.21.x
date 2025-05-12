@@ -6,10 +6,18 @@
     "#GE"
   ],
   "key": {
-    "#": "minecraft:amethyst_shard",
-    "G": "minecraft:gunpowder",
-    "g": "minecraft:gold_ingot",
-    "E": "minecraft:echo_shard"
+    "#": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    }
   },
   "result": {
     "id": "disintegrity:nadium_crystal",
