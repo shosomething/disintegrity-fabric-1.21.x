@@ -2,6 +2,7 @@ package net.shosomething.disintegrity;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.shosomething.disintegrity.block.ModBlocks;
 import net.shosomething.disintegrity.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,6 +15,7 @@ public class Disintegrity implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
